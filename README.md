@@ -2,7 +2,9 @@
 
 *CEO/OWNER & Lead Dev @ Vexo Network*
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo)](https://github.com/phrqndydevs/infinite-trial-jetbrains)
+## Latest Repository  
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PhrqndyDevs&repo=infinite-trial-jetbrains&theme=radical)](https://github.com/PhrqndyDevs/infinite-trial-jetbrains)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phrqndydevs)](https://github.com/phrqndydevs/github-readme-stats)
 
