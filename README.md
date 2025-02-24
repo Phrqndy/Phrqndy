@@ -8,7 +8,16 @@
 
 
 
-# 🧑‍💻 I Mainly write in php for my server plugins or make public repositories.
+***🧑‍💻 I Mainly write in php for my server*** ***plugins or make public repositories***
+
+## Skills & Technologies
+
+| Language | Framework | Tools |
+|----------|----------|-------|
+| PHP      | PocketMine-MP | PhPStorm |
+| JSON     | API Development | PhPStorm |
+| YAML     | Plugin Configuration | 
+
 
 
 My Projects:
