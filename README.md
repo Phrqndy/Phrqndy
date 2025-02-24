@@ -1,4 +1,4 @@
-*🐘 PhP Developer for Pocketmine*
+# 🐘 PhP Developer for Pocketmine
 
 *CEO/OWNER & Lead Dev @ Vexo Network*
 
@@ -25,3 +25,9 @@ My Projects:
 https://drafts-335webhook.created.app
 CUSTOM Discord Webhook Sender made with ai 
 i made this at 2am and its pretty useful 
+
+
+
+## Contact Me  
+📫 Discord: `phrqndy`  
+
