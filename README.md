@@ -2,6 +2,8 @@
 
 *CEO/OWNER & Lead Dev @ Vexo Network*
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phrqndydevs)](https://github.com/phrqndydevs/github-readme-stats)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phrqndydevs&show_icons=true)
 
 
