@@ -6,7 +6,7 @@
 
 [![Your GitHub Repos](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/phrqndydevs?tab=repositories)
 
-![Snake animation](https://github.com/phrqndydevs/your-username/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phrqndydevs&layout=compact)
 
 # 🧑‍💻 I Mainly write in php for my servers or design websites
 
