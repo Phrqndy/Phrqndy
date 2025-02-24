@@ -8,7 +8,7 @@
 
 
 
-# 🧑‍💻 I Mainly write in php for my servers or design websites
+# 🧑‍💻 I Mainly write in php for my server plugins or make public repositories.
 
 
 My Projects:
