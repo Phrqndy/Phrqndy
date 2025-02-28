@@ -31,7 +31,9 @@ Pocketmine4All (Beta)
 
 Protections (Active)
 
-Vexo Network 2025
+Vexo Network 2025: https://www.dmca.com/r/ypg4p8p
+
+
 [![DMCA.com Protection Status](https://images.dmca.com/Badges/DMCA_logo-grn-btn100w.png?ID=332367c8-9264-4b72-9803-6224ef7ea647)](//www.dmca.com/Protection/Status.aspx?ID=332367c8-9264-4b72-9803-6224ef7ea647)
 
 
