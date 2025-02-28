@@ -1,7 +1,7 @@
 # 🐘 PhP Developer for Pocketmine
 
 *CEO/OWNER & Lead Dev @ Vexo Network*
-[![DMCA.com Protection Status](https://images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=332367c8-9264-4b72-9803-6224ef7ea647)](https://www.dmca.com/Protection/Status.aspx?ID=332367c8-9264-4b72-9803-6224ef7ea647)
+
 
 
 ## Languages:
@@ -25,6 +25,14 @@
 
 My Projects:
 Pocketmine4All (Beta)
+
+
+
+
+Protections (Active)
+
+Vexo Network 2025
+[![DMCA.com Protection Status](https://images.dmca.com/Badges/DMCA_logo-grn-btn100w.png?ID=332367c8-9264-4b72-9803-6224ef7ea647)](//www.dmca.com/Protection/Status.aspx?ID=332367c8-9264-4b72-9803-6224ef7ea647)
 
 
 
