@@ -1,6 +1,6 @@
-# 🐘 PhP Developer for Pocketmine
+🐘 Learning PhP 
 
-# 🌀 CEO/OWNER & Lead Dev @ Vexo Network*
+# 🌀 CEO/OWNER & Lead Dev @ Vexo Network
 
 *Vexo S1 Relase - Monday 3 March*
 
