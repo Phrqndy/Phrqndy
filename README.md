@@ -1,13 +1,14 @@
 # 🐘 PhP Developer for Pocketmine
 
-*CEO/OWNER & Lead Dev @ Vexo Network*
+# 🌀 CEO/OWNER & Lead Dev @ Vexo Network*
+
+*Vexo S1 Relase - Monday 3 March*
 
 
 
 ## Languages:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 
 
 ## Latest Repository  
@@ -24,7 +25,13 @@
 
 
 My Projects:
+Vexo Net
 Pocketmine4All (Beta)
+
+
+
+
+
 
 
 
