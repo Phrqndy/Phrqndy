@@ -2,7 +2,7 @@
 
 # 🌀 CEO/OWNER & Lead Dev @ Vexo Network
 
-*Vexo S1 Relase - Monday 3 March*
+*Vexo S1*
 
 
 
@@ -27,16 +27,6 @@
 My Projects:
 Vexo Network
 Pocketmine4All (Beta)
-
-
-
-
-
-
-
-
-
-Protections (Active)
 
 
 
