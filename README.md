@@ -1,5 +1,3 @@
- 
-🌀 Owner & Lead Dev @ Vexo Network
 
 
 Learning:
