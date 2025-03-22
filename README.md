@@ -9,7 +9,7 @@ Learning:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phrqndydevs)](https://github.com/phrqndy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phrqndy)](https://github.com/phrqndy/github-readme-stats)
 
 
 
