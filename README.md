@@ -1,7 +1,7 @@
-Hi! 
-im Phrqndy, a PocketMine-MP developer always learning and pushing my skills further. 
+# Hi! 
 
-I love creating custom plugins, event systems, and unique gameplay mechanics for my mcpe server Vexo!
+*im Phrqndy, a PocketMine-MP developer always learning and pushing my skills further,
+I love creating custom plugins, event systems for my mcpe server Vexo!*
 
 
 
