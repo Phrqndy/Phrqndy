@@ -1,7 +1,8 @@
 > Hi!
 
-*im Phrqndy,also known as Aggelos, a PocketMine-MP developer always learning and pushing my skills further,
-I love creating custom plugins, event systems for my mcpe server Vexo!*
+> I'm Phrqndy,also known as Aggelos, 
+> a PocketMine-MP developer always learning and pushing my skills further,
+> I love creating custom plugins, event systems for my mcpe server Vexo!
 
 
 
