@@ -39,7 +39,8 @@
 
 
 ## Contact Me  
-📫 Discord: `phrqndy`  
+📫 Discord: 
+[!Discord](https://discord.com/users/1230934847384453171)
 
 Vexo Network Discord:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9yE66dUdKF)
