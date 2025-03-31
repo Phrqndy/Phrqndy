@@ -15,12 +15,11 @@
 
 ## ⛵️ Learning:
 
- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)     ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
  
- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
  
- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 
@@ -39,7 +38,17 @@
 
 ## Contact Me  
 📫 Discord: 
-![Discord](https://discord.com/users/1230934847384453171)
+<h2 align="center"> Discord</h2>
+<p align="center">
+  <a href="https://discord.com/users/1230934847384453171">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1230934847384453171" align="center" />
+  </a>
+</p>
+<hr>
+
+
+
+
 
 Vexo Network Discord:
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9yE66dUdKF)
