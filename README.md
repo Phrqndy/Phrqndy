@@ -1,9 +1,8 @@
 > Hi!
 
-> I'm Phrqndy, also known as Aggelos, 
+> I'm Phrqndy, 
 > a PocketMine-MP developer always learning and pushing my skills further,
-> I love creating custom plugins, event systems for my mcpe server Vexo!
-
+> -----
 
 
 
@@ -40,7 +39,7 @@
 
 ## Contact Me  
 📫 Discord: 
-[!Discord](https://discord.com/users/1230934847384453171)
+![Discord](https://discord.com/users/1230934847384453171)
 
 Vexo Network Discord:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9yE66dUdKF)
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9yE66dUdKF)
