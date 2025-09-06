@@ -1,7 +1,7 @@
 
 
 I'm Phrqndy, 
-a PocketMine-MP developer always learning and pushing my skills further
+a PocketMine-MP developer
 
 
 
