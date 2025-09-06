@@ -36,7 +36,7 @@ a PocketMine-MP developer
 
 
 ## Contact Me  
-📫 Discord: 
+
 <h2 align="center"> Discord</h2>
 <p align="center">
   <a href="https://discord.com/users/1230934847384453171">
