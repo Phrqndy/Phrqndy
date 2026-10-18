@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0f12,50:1b3a2a,100:34C759&height=200&section=header&text=Hey,%20I'm%20UPhrqndy%20⚡&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=VESC%20Developer%20·%20Web%20·%20Python&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0f12,50:1b3a2a,100:34C759&height=200&section=header&text=Hey,%20I'm%20USERNAME%20⚡&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=VESC%20Developer%20·%20Web%20·%20Python&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%">
 </p>
 
 <!-- Typing tagline -->
