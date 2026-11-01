@@ -1,14 +1,74 @@
-<img alt="Phrqndy. Frontend developer building apps and websites. Open source, always free." width="100%" src="assets/header-dark.svg">
+<div align="center">
 
-<a href="https://dashy.kugonizer.workers.dev/"><img src="https://img.shields.io/badge/Try_Dashy_Lite_%E2%86%97-191919?style=flat-square" alt="Try Dashy Lite"></a>
-<a href="https://github.com/Phrqndy?tab=followers"><img src="https://img.shields.io/github/followers/Phrqndy?style=flat-square&label=Followers&labelColor=191919&color=787774" alt="Followers"></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Phrqndy.Phrqndy&left_text=Views&left_color=black&right_color=gray" alt="Profile views">
+<img src="./assets/hero.svg" alt="Phrqndy — Building what comes next." width="100%" />
 
-<img alt="" width="100%" src="assets/line-dark.svg">
+<br/>
 
-<img alt="I focus on clean, fast frontend design. My main project right now is Dashy, a free VESC dashboard for the web and iOS." width="100%" src="assets/about-dark.svg">
+**Developer · Designer · Builder**
 
-<img alt="Stack: PHP, Python, HTML5, CSS, JavaScript, Swift, Framer, Web Bluetooth, Git, GitHub" width="100%" src="assets/stack-dark.svg">
+Thoughtful interfaces. Powerful systems. Beautiful simplicity.
 
-<a href="https://dashy.kugonizer.workers.dev/"><img alt="Dashy Lite: a lightweight VESC dashboard for the web" width="49%" src="assets/dashy-lite-dark.svg"></a>
-<a href="https://github.com/Phrqndy?tab=repositories"><img alt="Dashy: a native iOS VESC dashboard with Live Activities" width="49%" src="assets/dashy-dark.svg"></a>
+<br/>
+
+[**Explore Dashy Lite ↗**](https://dashy.kugonizer.workers.dev/) &nbsp; / &nbsp; [**Selected work ↗**](https://github.com/Phrqndy?tab=repositories) &nbsp; / &nbsp; [**Follow ↗**](https://github.com/Phrqndy?tab=followers)
+
+<br/><br/>
+
+</div>
+
+---
+
+### 01 — About
+
+I build thoughtful digital experiences for the **web and iOS** — where product design meets practical engineering.
+
+My work spans **Swift**, **PHP**, modern frontend development, and **VESC-connected software**. I care about precise details, responsive interfaces, and products that feel effortless to use.
+
+### 02 — Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://dashy.kugonizer.workers.dev/"><img src="./assets/dashy-lite-dark.svg" width="100%" alt="Dashy Lite — VESC dashboard for the web" /></a>
+
+**Dashy Lite**
+
+A lightweight VESC dashboard for the web.
+
+[Launch application ↗](https://dashy.kugonizer.workers.dev/)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Phrqndy?tab=repositories"><img src="./assets/dashy-dark.svg" width="100%" alt="Dashy for iOS" /></a>
+
+**Dashy for iOS**
+
+A native VESC experience designed for iPhone.
+
+[Explore repositories ↗](https://github.com/Phrqndy?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+### 03 — Toolkit
+
+`Swift` · `PHP` · `Python` · `JavaScript` · `HTML` · `CSS` · `Web Bluetooth` · `Git`
+
+### 04 — Philosophy
+
+> Make it useful. Make it intuitive. Make every detail count.
+
+The best engineering makes complexity invisible. I aim to create products that feel natural from the first interaction.
+
+<br/>
+
+---
+
+<div align="center">
+
+<sub>DESIGNED WITH INTENTION &nbsp;·&nbsp; PHRQNDY &nbsp;·&nbsp; 2026</sub>
+
+</div>
