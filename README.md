@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Phrqndy — Building what comes next." width="100%" />
-
-<br/>
+# Hi, I'm Phrqndy 👋
 
 **Developer · Designer · Builder**
 
@@ -10,65 +8,49 @@ Thoughtful interfaces. Powerful systems. Beautiful simplicity.
 
 <br/>
 
-[**Explore Dashy Lite ↗**](https://dashy.kugonizer.workers.dev/) &nbsp; / &nbsp; [**Selected work ↗**](https://github.com/Phrqndy?tab=repositories) &nbsp; / &nbsp; [**Follow ↗**](https://github.com/Phrqndy?tab=followers)
-
-<br/><br/>
+<a href="https://dashy.kugonizer.workers.dev/"><img src="https://img.shields.io/badge/Dashy_Lite-Launch-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Dashy Lite" /></a>
+<a href="https://github.com/Phrqndy?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://github.com/Phrqndy?tab=followers"><img src="https://img.shields.io/badge/Follow-Phrqndy-8957E5?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Follow" /></a>
 
 </div>
 
----
+<br/>
 
-### 01 — About
+## 🧭 About
 
-I build thoughtful digital experiences for the **web and iOS** — where product design meets practical engineering.
+- 🌐 I build for the **web and iOS** — product design meets practical engineering
+- ⚡ Work spans **Swift**, **PHP**, modern frontend and **VESC-connected software**
+- 🎯 I care about precise details, responsive interfaces and products that feel effortless
 
-My work spans **Swift**, **PHP**, modern frontend development, and **VESC-connected software**. I care about precise details, responsive interfaces, and products that feel effortless to use.
+## 🚀 Selected work
 
-### 02 — Selected work
+| | Project | Description |
+|---|---|---|
+| 🖥️ | [**Dashy Lite**](https://dashy.kugonizer.workers.dev/) | A lightweight VESC dashboard for the web, over Web Bluetooth |
+| 📱 | [**Dashy for iOS**](https://github.com/Phrqndy?tab=repositories) | A native VESC experience designed for iPhone |
+| 🧩 | [**pmmp-tools-ai**](https://github.com/Phrqndy/pmmp-tools-ai) | AI tooling for PocketMine-MP plugin development |
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🛠️ Toolkit
 
-<a href="https://dashy.kugonizer.workers.dev/"><img src="./assets/dashy-lite-dark.svg" width="100%" alt="Dashy Lite — VESC dashboard for the web" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,php,py,js,html,css,git,github&perline=8" alt="Toolkit" />
+</p>
 
-**Dashy Lite**
+<sub>Swift · PHP · Python · JavaScript · HTML · CSS · Git · GitHub — plus Web Bluetooth and VESC</sub>
 
-A lightweight VESC dashboard for the web.
+## 📊 Stats
 
-[Launch application ↗](https://dashy.kugonizer.workers.dev/)
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Phrqndy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phrqndy&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top languages" />
+</p>
 
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Phrqndy?tab=repositories"><img src="./assets/dashy-dark.svg" width="100%" alt="Dashy for iOS" /></a>
-
-**Dashy for iOS**
-
-A native VESC experience designed for iPhone.
-
-[Explore repositories ↗](https://github.com/Phrqndy?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-### 03 — Toolkit
-
-`Swift` · `PHP` · `Python` · `JavaScript` · `HTML` · `CSS` · `Web Bluetooth` · `Git`
-
-### 04 — Philosophy
+## 💭 Philosophy
 
 > Make it useful. Make it intuitive. Make every detail count.
 
-The best engineering makes complexity invisible. I aim to create products that feel natural from the first interaction.
-
 <br/>
 
----
-
 <div align="center">
-
-<sub>DESIGNED WITH INTENTION &nbsp;·&nbsp; PHRQNDY &nbsp;·&nbsp; 2026</sub>
-
+<sub>Designed with intention · Phrqndy · 2026</sub>
 </div>
