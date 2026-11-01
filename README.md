@@ -47,7 +47,7 @@ Check out Dashy/Dashy Lite, its free! :)
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer">
   <img src="https://img.shields.io/badge/VESC-000000?style=for-the-badge&logo=lightning&logoColor=34C759" alt="VESC">
-  <img src="https://img.shields.io/badge/Web%20Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="Web Bluetooth">
+  <img src="https://img.shields.io/badge/Web%20Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="PWA">
 </p>
 
 ---
