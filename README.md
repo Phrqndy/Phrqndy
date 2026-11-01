@@ -34,58 +34,40 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/php.svg?color=%23FFFFFF&height=48">
-    <img alt="PHP" height="48" src="https://api.iconify.design/simple-icons/php.svg?color=%23000000&height=48">
-  </picture>
-  &nbsp;&nbsp;
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/FFFFFF">
+    <img alt="PHP" height="44" src="https://cdn.simpleicons.org/php/000000">
+  </picture> &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/python.svg?color=%23FFFFFF&height=48">
-    <img alt="Python" height="48" src="https://api.iconify.design/simple-icons/python.svg?color=%23000000&height=48">
-  </picture>
-  &nbsp;&nbsp;
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/FFFFFF">
+    <img alt="Python" height="44" src="https://cdn.simpleicons.org/python/000000">
+  </picture> &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/html5.svg?color=%23FFFFFF&height=48">
-    <img alt="HTML5" height="48" src="https://api.iconify.design/simple-icons/html5.svg?color=%23000000&height=48">
-  </picture>
-  &nbsp;&nbsp;
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/html5/FFFFFF">
+    <img alt="HTML5" height="44" src="https://cdn.simpleicons.org/html5/000000">
+  </picture> &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/css3.svg?color=%23FFFFFF&height=48">
-    <img alt="CSS3" height="48" src="https://api.iconify.design/simple-icons/css3.svg?color=%23000000&height=48">
-  </picture>
-  &nbsp;&nbsp;
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css/FFFFFF">
+    <img alt="CSS3" height="44" src="https://cdn.simpleicons.org/css/000000">
+  </picture> &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/javascript.svg?color=%23FFFFFF&height=48">
-    <img alt="JavaScript" height="48" src="https://api.iconify.design/simple-icons/javascript.svg?color=%23000000&height=48">
-  </picture>
-  &nbsp;&nbsp;
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/FFFFFF">
+    <img alt="JavaScript" height="44" src="https://cdn.simpleicons.org/javascript/000000">
+  </picture> &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/git.svg?color=%23FFFFFF&height=48">
-    <img alt="Git" height="48" src="https://api.iconify.design/simple-icons/git.svg?color=%23000000&height=48">
-  </picture>
-  &nbsp;&nbsp;
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/FFFFFF">
+    <img alt="Git" height="44" src="https://cdn.simpleicons.org/git/000000">
+  </picture> &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23FFFFFF&height=48">
-    <img alt="GitHub" height="48" src="https://api.iconify.design/simple-icons/github.svg?color=%23000000&height=48">
-  </picture>
-  &nbsp;&nbsp;
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
+    <img alt="GitHub" height="44" src="https://cdn.simpleicons.org/github/000000">
+  </picture> &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/visualstudiocode.svg?color=%23FFFFFF&height=48">
-    <img alt="VS Code" height="48" src="https://api.iconify.design/simple-icons/visualstudiocode.svg?color=%23000000&height=48">
-  </picture>
-  &nbsp;&nbsp;
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framer/FFFFFF">
+    <img alt="Framer" height="44" src="https://cdn.simpleicons.org/framer/000000">
+  </picture> &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/framer.svg?color=%23FFFFFF&height=48">
-    <img alt="Framer" height="48" src="https://api.iconify.design/simple-icons/framer.svg?color=%23000000&height=48">
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/lightning-bolt.svg?color=%23FFFFFF&height=48">
-    <img alt="VESC" height="48" src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%23000000&height=48">
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/bluetooth.svg?color=%23FFFFFF&height=48">
-    <img alt="Web Bluetooth" height="48" src="https://api.iconify.design/simple-icons/bluetooth.svg?color=%23000000&height=48">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bluetooth/FFFFFF">
+    <img alt="Web Bluetooth" height="44" src="https://cdn.simpleicons.org/bluetooth/000000">
   </picture>
 </p>
 
@@ -100,13 +82,12 @@
       <p>A very lightweight VESC dashboard for the web. Live speed and temperatures over Bluetooth LE, in one ~22 KB HTML file.</p>
       <p>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/html5.svg?color=%23FFFFFF&height=28">
-          <img alt="HTML" height="28" src="https://api.iconify.design/simple-icons/html5.svg?color=%23000000&height=28">
-        </picture>
-        &nbsp;
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/html5/FFFFFF">
+          <img alt="HTML5" height="28" src="https://cdn.simpleicons.org/html5/000000">
+        </picture> &nbsp;
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/bluetooth.svg?color=%23FFFFFF&height=28">
-          <img alt="Web BLE" height="28" src="https://api.iconify.design/simple-icons/bluetooth.svg?color=%23000000&height=28">
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bluetooth/FFFFFF">
+          <img alt="Web BLE" height="28" src="https://cdn.simpleicons.org/bluetooth/000000">
         </picture>
       </p>
       <a href="https://dashy.kugonizer.workers.dev/"><b>▶ Open live</b></a>
@@ -116,13 +97,12 @@
       <p>The native iOS VESC dashboard, with Live Activities so your speed shows on the lock screen mid-ride.</p>
       <p>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/apple.svg?color=%23FFFFFF&height=28">
-          <img alt="iOS" height="28" src="https://api.iconify.design/simple-icons/apple.svg?color=%23000000&height=28">
-        </picture>
-        &nbsp;
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/FFFFFF">
+          <img alt="iOS" height="28" src="https://cdn.simpleicons.org/apple/000000">
+        </picture> &nbsp;
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/swift.svg?color=%23FFFFFF&height=28">
-          <img alt="Swift" height="28" src="https://api.iconify.design/simple-icons/swift.svg?color=%23000000&height=28">
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swift/FFFFFF">
+          <img alt="Swift" height="28" src="https://cdn.simpleicons.org/swift/000000">
         </picture>
       </p>
       <a href="https://github.com/USERNAME"><b>→ View repos</b></a>
